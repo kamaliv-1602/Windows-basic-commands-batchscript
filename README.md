@@ -23,20 +23,24 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+<img width="468" height="57" alt="image" src="https://github.com/user-attachments/assets/9a0dd308-c6c6-48be-b02f-166ade40c102" />
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+<img width="342" height="76" alt="image" src="https://github.com/user-attachments/assets/9c52d2fa-8c47-4277-b73c-9a72ae0b17df" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+<img width="530" height="203" alt="image" src="https://github.com/user-attachments/assets/1cb98b90-2610-4753-b4d0-eeb5fd8a0805" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
+<img width="422" height="76" alt="image" src="https://github.com/user-attachments/assets/55d5e171-f761-4a53-a1fc-36aeb2f645e3" />
 
 ## COMMAND AND OUTPUT
 
